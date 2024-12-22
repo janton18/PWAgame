@@ -1,4 +1,5 @@
-
+Link to the Glitch code: https://lava-hollow-triceratops.glitch.me/
+Link to the live preview (site): [[https://your-project-name.glitch.me]](https://glitch.com/~lava-hollow-triceratops)
 ## Practice with Classes, Booleans, Strings, and Event Handling
 
 
